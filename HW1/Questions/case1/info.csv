@@ -1,0 +1,20 @@
+Patient's Name,NA
+Patient's ID,0018433448
+Patient's Birth Date,1968033
+Patient's Sex,F
+Patient's Age,052Y
+Body Part Examined,HEAD
+Study Date,2020115
+Series Date,2020115
+Study Time(h:m:s),000523.066000
+Study Description,Head Brain C-
+Series Description,Head  5.0  H41s
+Patient Position,HFS
+Slice Thickness,5
+Image Number,24
+Rows,512
+Columns,512
+Rescale Slope,1.005
+Rescale Intercept,-1021
+Default Window Center,35
+Default Window Width,150

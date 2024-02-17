@@ -1,0 +1,7 @@
+C:\Users\lasvigas\code\LA(openCV)\Homework\HW1\case5\info.csv
+C:\Users\lasvigas\code\LA(openCV)\Homework\HW1\case5\image.csv
+C:\Users\lasvigas\code\LA(openCV)\Homework\HW1\case5\mask.csv
+40
+80
+40
+360
