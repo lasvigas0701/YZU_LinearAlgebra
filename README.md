@@ -28,5 +28,5 @@ Linear Algebra class in fall semester of sophomore year (2023F/1121)
 |--|--|--|
 |HW1|Brain CT Preporcessing|Given a brain CT image and some patient infomation, our task is to do some image processing for resacling, windowing, mapping, and merging images, then we have to find Falx Cerebri in Brain CT image to rotate it.
 |HW2|Affine Transformation|3-Dimensional affine transformations with the concept of Homogeneous Coordinates. Aside from coding, this assignment also had paperwork part: explain how we implement matrix multiplications, find determinants, and find inverse matrix.
-|HW3|Perspective|Our task is to do OMR(Optical Mark Recognition) on pictures. We have to regulate the image with perspective, then recongnize the items in image. This homework also had paperwork part: answer some acadamic questions about perspective matrix.
+|HW3|Perspective|Our task is to do OMR (Optical Mark Recognition) on pictures. We have to regulate the image with perspective, then recongnize the items in image. This homework also had paperwork part: answer some acadamic questions about perspective matrix.
 |HW4|Counting|Given a .mp4 video file as input. In the video, there are roads and cars (expressed by rectangles and lines, not real objects), each car has distinct color. Our task is to count the moving distance of every car.
